@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="232ada47-2446-4c2c-967a-8477abdd8b0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DraggableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DraggableBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663043117134</updated>
       <workItem from="1663043132334" duration="91000" />
-      <workItem from="1663128442843" duration="3225000" />
+      <workItem from="1663128442843" duration="4887000" />
     </task>
     <servers />
   </component>
