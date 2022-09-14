@@ -399,6 +399,7 @@ GameObject:
   - component: {fileID: 1314578840}
   - component: {fileID: 1314578839}
   - component: {fileID: 1314578844}
+  - component: {fileID: 1314578845}
   m_Layer: 0
   m_Name: Circle
   m_TagString: Untagged
@@ -567,6 +568,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7877277b0e683d47a1f7e6ed70e89b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1314578845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1314578838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d3ca3bdd4cdc64ea80d7461a2bd0bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dragabble: 0
+  position: {x: 0, y: 0, z: 0}
+  offset: {x: 0, y: 0, z: 0}
 --- !u!1 &1365359703
 GameObject:
   m_ObjectHideFlags: 0
@@ -695,7 +711,7 @@ GameObject:
   - component: {fileID: 2087059996}
   - component: {fileID: 2087059995}
   m_Layer: 0
-  m_Name: w
+  m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
