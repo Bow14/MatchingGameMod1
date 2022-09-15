@@ -8,12 +8,12 @@ public class MatchBehaviour : MonoBehaviour
 {
     //AnthonyRomrell Module  Matching game 1 code
     public ID idObj;
-    public UnityEvent matchEvent, NoMatchEvent;
-    public void OnTriggerEnter(Collider other)
+    public UnityEvent matchEvent, NoMatchEvent, noMatchDelyaedEvent;
+    public IEnumerator OnTriggerEnter(Collider other)
     {
         var tempObj = other.GetComponent<IDcontatinerBehavior>();
         if (tempObj == null) 
-            return;
+            yield break;
             
             
         var otherID = tempObj.idObj;
@@ -26,6 +26,8 @@ public class MatchBehaviour : MonoBehaviour
         else
         {
            NoMatchEvent.Invoke();
+           yield return new WaitForSeconds(0.5f);
+           noMatchDelyaedEvent.Invoke();
         }
     }
 }

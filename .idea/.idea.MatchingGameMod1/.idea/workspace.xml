@@ -6,8 +6,28 @@
   <component name="ChangeListManager">
     <list default="true" id="232ada47-2446-4c2c-967a-8477abdd8b0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DraggableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DraggableBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/MatchAnimations/MatchController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/MatchAnimations/MatchController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ColorID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ColorID.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DraggableBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DraggableBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ID.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IDcontatinerBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IDcontatinerBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IntData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MatchBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MatchBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Number.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Number.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Red.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Red.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Score.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Score.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpriteBehaviourObj.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SpriteBehaviourObj.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +92,7 @@
       <updated>1663043117134</updated>
       <workItem from="1663043132334" duration="91000" />
       <workItem from="1663128442843" duration="4887000" />
+      <workItem from="1663205420548" duration="4995000" />
     </task>
     <servers />
   </component>

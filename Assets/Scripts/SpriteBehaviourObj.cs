@@ -7,7 +7,7 @@ public class SpriteBehaviourObj : MonoBehaviour
     //    //AnthonyRomrell Module  Matching game 1 code
 
     private SpriteRenderer rendererObj;
-    void Start()
+    void Awake()
     {
         rendererObj = GetComponent<SpriteRenderer>();
     }
