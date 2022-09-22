@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="232ada47-2446-4c2c-967a-8477abdd8b0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/White.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/White.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ring.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ring.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Instancing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Instancing.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoroutineBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CoroutineBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +77,8 @@
       <workItem from="1663205420548" duration="4995000" />
       <workItem from="1663317407289" duration="597000" />
       <workItem from="1663646491368" duration="5084000" />
+      <workItem from="1663739746156" duration="700000" />
+      <workItem from="1663805735990" duration="2436000" />
     </task>
     <servers />
   </component>

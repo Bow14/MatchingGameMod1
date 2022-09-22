@@ -28,7 +28,10 @@ public class CoroutineBehaviour : MonoBehaviour
 
     public void Start()
     {
-       startEvent.Invoke(); 
+       startEvent.Invoke();
+       wfsObj = new WaitForSeconds(seconds);
+       wffuObj = new WaitForFixedUpdate();
+
     }
 
     public void StartCounting()
@@ -38,9 +41,7 @@ public class CoroutineBehaviour : MonoBehaviour
 
     private IEnumerator Counting()
     {
-        wfsObj = new WaitForSeconds(seconds);
-        wffuObj = new WaitForFixedUpdate();
-
+       
         //Void start cannot be yielded
         //If you don't yield a while loop it will crash
         startCountEvent.Invoke();
