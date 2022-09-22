@@ -7,8 +7,12 @@
     <list default="true" id="232ada47-2446-4c2c-967a-8477abdd8b0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ring.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ring.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/123GO!.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/123GO!.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Instancing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Instancing.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoroutineBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CoroutineBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MatchGame1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MatchGame1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpriteBehaviourObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpriteBehaviourObj.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorMatchBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../MatchingGameModuel1/Assets/IDcontatinerBehavior.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -79,6 +84,7 @@
       <workItem from="1663646491368" duration="5084000" />
       <workItem from="1663739746156" duration="700000" />
       <workItem from="1663805735990" duration="2436000" />
+      <workItem from="1663808273377" duration="3524000" />
     </task>
     <servers />
   </component>
