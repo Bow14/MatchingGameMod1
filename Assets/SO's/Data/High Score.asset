@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3166139f821fdb04ca00d15c1f9c859b, type: 3}
   m_Name: High Score
   m_EditorClassIdentifier: 
-  value: 170
+  value: 60

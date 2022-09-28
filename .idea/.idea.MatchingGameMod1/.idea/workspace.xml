@@ -6,15 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="232ada47-2446-4c2c-967a-8477abdd8b0b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchingGameMod1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Countdown/Counter.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Countdown/Counter.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/UIAnimations/GameOverAnim/Die.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/UIAnimations/GameOverAnim/Die.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/UIAnimations/Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/UIAnimations/Idle.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animations/UIAnimations/UiAnimationController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/UIAnimations/UiAnimationController.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dot.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Hidden Dot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Hidden Dot.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ring.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ring.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO's/Data/High Score.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO's/Data/High Score.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO's/Data/Score.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO's/Data/Score.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MatchGame1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MatchGame1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorIDBehaviour.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColorIDBehaviour.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorMatchBehaviour.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColorMatchBehaviour.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoroutineBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CoroutineBehaviour.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +88,8 @@
       <workItem from="1663978128979" duration="892000" />
       <workItem from="1663987722139" duration="1963000" />
       <workItem from="1663991440646" duration="596000" />
+      <workItem from="1664348889922" duration="2668000" />
+      <workItem from="1664357308872" duration="705000" />
     </task>
     <servers />
   </component>

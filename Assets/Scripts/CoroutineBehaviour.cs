@@ -26,6 +26,12 @@ public class CoroutineBehaviour : MonoBehaviour
     //Taking the new objects and putting it for once so your not filling in a bunch of memory
     // with new update constantly 
 
+    public bool CanRun
+    {
+        get => canRun;
+        set => canRun = value;
+    }
+
     public void Start()
     {
        startEvent.Invoke();
@@ -72,4 +78,5 @@ public class CoroutineBehaviour : MonoBehaviour
             repeatUntilFalseEvent.Invoke();
         }
     }
+    
 }
